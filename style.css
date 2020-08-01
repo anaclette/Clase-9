@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.estructura-principal {
+    background-color: peru;
+    display: flex;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    text-align: center;
+    align-items: center;
+    color: white;
+
+}
+
+.contenido {
+    background-color: skyblue;
+    width: 80%;
+    
+}
+
+header {
+    background-color: rgb(107, 134, 214);
+    height: 300px;
+
+}
+
+section {
+    background-color: slategrey;
+    height: 500px;
+}
+
+aside {
+    background-color: sandybrown;
+    width: 20%;
+    padding: 35px;
+}
+
+footer {
+    width: auto;
+    background-color: violet;
+    height: 100px;
+}
